@@ -1,0 +1,4 @@
+arithmos
+========
+
+numerical solver
